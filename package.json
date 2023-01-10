@@ -71,6 +71,6 @@
         "react-leaflet": "^3.0.0"
     },
     "dependencies": {
-        "leaflet-textpath": "git+ssh://git@github.com:udrew-com-au/Leaflet.TextPath#2669d46"
+        "leaflet-textpath": "git+ssh://git@github.com:udrew-com-au/Leaflet.TextPath"
     }
 }
