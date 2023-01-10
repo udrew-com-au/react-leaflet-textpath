@@ -10,6 +10,7 @@ import {
 } from 'leaflet';
 import 'leaflet-textpath';
 import { PropsWithChildren } from 'react';
+import "geojson";
 
 interface ReactLeafletTextPathBaseProps {
     /**
